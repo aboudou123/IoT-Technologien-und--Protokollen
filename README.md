@@ -32,7 +32,7 @@ Protocole de messagerie **pub/sub** léger basé sur **TCP/IP**, conçu pour les
 * Surveillance industrielle.
 * Agriculture connectée.
 
----
+
 
 ## 🔗 2. **CoAP (Constrained Application Protocol)**
 
